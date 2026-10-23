@@ -55,7 +55,7 @@ See here for details: https://github.com/rust-lang/this-week-in-rust/issues/8575
 ### Research
 
 ### Miscellaneous
-
+* [Announcing Rust Uzbekistan & Uzbek Translation of The Rust Book](https://doc.ferris.uz)
 ## Crate of the Week
 
 <!-- COTW goes here -->
@@ -345,3 +345,7 @@ This Week in Rust is edited by:
 *Email list hosting is sponsored by [The Rust Foundation](https://foundation.rust-lang.org/)*
 
 <small>[Discuss on r/rust](REDDIT_LINK_HERE)</small>
+Commit message: Add Rust Uzbekistan & Uzbek translation of The Rust Book
+  • Extended description (ixtiyoriy):
+    Announcing the official launch of the Rust Uzbekistan community hub (https://ferris.uz) and the open-source Uzbek translation of The Rust Programming Language book (https://doc.
+  ferris.uz).
